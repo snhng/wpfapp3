@@ -10,6 +10,7 @@
         <ComboBox HorizontalAlignment="Left" Margin="196,151,0,0" VerticalAlignment="Top" Width="120"/>
         <Label Content="Label" HorizontalAlignment="Left" Margin="106,313,0,0" VerticalAlignment="Top"/>
         <Label Content="Label" HorizontalAlignment="Left" Margin="289,244,0,0" VerticalAlignment="Top"/>
+        <ComboBox HorizontalAlignment="Left" Margin="440,244,0,0" VerticalAlignment="Top" Width="120"/>
 
     </Grid>
 </Window>
